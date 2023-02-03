@@ -8,6 +8,7 @@
     "starter"
   ],
   "main": "src/index.tsx",
+  "homepage": "https://rjborntowin.github.io/Amazon-React-Clone/",
   "dependencies": {
     "@emotion/react": "11.10.5",
     "@emotion/styled": "11.10.5",
